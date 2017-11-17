@@ -10,4 +10,10 @@ int main(int argc, char *argv[]) {
 	
 	
 	std::cout<<"Now this line.  This is where the real magic is."<<std::endl;
+	
+	std::cout<<"Doing stuff..."<<std::endl;
+	
+	std::cout<<"*5 hours pass*"<<std::endl;
+		
+
 }

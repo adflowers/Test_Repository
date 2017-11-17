@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	
 	std::cout<<"*5 hours pass*"<<std::endl;
 		
-
+	cin.get();
 	std::cout<<printMoney<<std::endl;
 }
 
